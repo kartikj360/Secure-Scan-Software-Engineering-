@@ -1,5 +1,6 @@
 ﻿# Software Engineering Project
 #OVERVIEW
+
  One-step way to make payments, know about an item, and much more work in one scan. The technology of the QR code has
 facilitated us. A QR code, an initialism for quick response code, is a type of matrix barcode or two-dimensional barcode that has
 become a part of our daily life in numerous ways. When we scan a QR code, it merely displays the link we can follow. However, there
@@ -7,6 +8,7 @@ always exists a question mark on the URL source, whether that link is secured en
 
 
 #EXISTING SYSTEM:
+
  There are numerous applications available for scanning QR Codes. As the QR codes are not inspected or made by a secure
 authority, anyone can create a QR code using simple techniques in a matter of seconds, yet this piece of code is incomprehensible to
 the naked eye.
@@ -21,6 +23,7 @@ page.
 
 
 #OUR SYSTEM:
+
 Even though QR code scanner is inseparable from our daily life, many users are unaware of the dark sides of using this
 technology. One way is to check each and every QR code and its source and authenticity. Scanning all the QR codes around a large
 area, maintaining a proper database, and going through it each time while scanning a code is a laborious task. An easier way would be
